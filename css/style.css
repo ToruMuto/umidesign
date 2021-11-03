@@ -238,7 +238,7 @@ hero
 --------------*/
 .hero .hero_container {
   position: relative;
-  background-image: url(/img/bg_01.jpg);
+  background-image: url(https://github.com/ToruMuto/umidesign/blob/main/img/bg_01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 420px;
