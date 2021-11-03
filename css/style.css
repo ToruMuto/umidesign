@@ -238,7 +238,7 @@ hero
 --------------*/
 .hero .hero_container {
   position: relative;
-  background-image: url(https://github.com/ToruMuto/umidesign/blob/main/img/bg_01.jpg);
+  background-image: url(https://github.com/ToruMuto/umidesign/blob/main/img/bg_01.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   height: 420px;
@@ -859,7 +859,7 @@ blog
 footer
 ========================*/
 footer {
-  background-image: url(https://github.com/ToruMuto/umidesign/blob/main/img/bg_02.jpg);
+  background-image: url(https://github.com/ToruMuto/umidesign/blob/main/img/bg_02.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: 820px;
   background-position: bottom center;
