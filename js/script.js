@@ -319,7 +319,7 @@ work_text(wc8, il);
   // white
   function init() {
     canvas = document.getElementById("wave-item-01");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     //Canvasのwidthをウィンドウの幅に合わせる
     canvas.height = 90;
     context = canvas.getContext("2d");
@@ -376,7 +376,7 @@ work_text(wc8, il);
   // white
   function init_gray() {
     canvas = document.getElementById("wave-item-02");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     canvas.height = 90;
     context = canvas.getContext("2d");
     height = canvas.height;
@@ -423,7 +423,7 @@ work_text(wc8, il);
   // white
   function init() {
     canvas = document.getElementById("wave-item-03");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     canvas.height = 90;
     context = canvas.getContext("2d");
     height = canvas.height;
@@ -470,7 +470,7 @@ work_text(wc8, il);
   // white
   function init() {
     canvas = document.getElementById("wave-item-04");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     canvas.height = 90;
     context = canvas.getContext("2d");
     height = canvas.height;
@@ -517,7 +517,7 @@ work_text(wc8, il);
   // white
   function init() {
     canvas = document.getElementById("wave-item-05");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     canvas.height = 90;
     context = canvas.getContext("2d");
     height = canvas.height;
@@ -564,7 +564,7 @@ work_text(wc8, il);
   // white
   function init() {
     canvas = document.getElementById("wave-item-06");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     canvas.height = 90;
     context = canvas.getContext("2d");
     height = canvas.height;
@@ -611,7 +611,7 @@ work_text(wc8, il);
   // white
   function init() {
     canvas = document.getElementById("wave-item-07");
-    canvas.width = document.documentElement.clientWidth;
+    canvas.width = 2000;
     canvas.height = 90;
     context = canvas.getContext("2d");
     height = canvas.height;
