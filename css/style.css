@@ -15,6 +15,7 @@ ul, ol {
 html {
   font-family: dnp-shuei-gothic-gin-std, "Hiragino Sans", ヒラギノ角ゴシック, "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", メイリオ, Meiryo, sans-serif;
   color: #282828;
+  overflow-x: hidden;
 }
 
 .title {
